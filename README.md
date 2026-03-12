@@ -9,7 +9,7 @@
 - 💬 Ask me about my projects.
 - 📫 How to reach me: **eddynurf@gmail.com**
 - ⚡ Fun fact: I am thinking of starting a startup. I also have crazy ideas.
-- 🔭 Happy codings !
+- 🔭 Happy codings ! X
 
 ---
 
