@@ -1,4 +1,3 @@
-
 ### Hi there 👋, I'm Eddy
 
 #### A Game Developer in living in İzmir for now!
@@ -12,6 +11,7 @@
 - ⚡ Fun fact: I am thinking of starting a startup. I also have crazy ideas.
 - 🔭 Happy codings !
 - 🔭 Happy vibe codings !
+- 🔭 Happy game codings !
 
 ---
 
